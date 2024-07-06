@@ -58,6 +58,7 @@
     border-radius: 8px;
     border: none;
     background: rgb(82, 195, 3);
+    cursor: pointer;
 }
 #sale-boxes{
     width: 100%;
